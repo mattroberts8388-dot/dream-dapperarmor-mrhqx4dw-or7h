@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {"item": "minecraft:black_wool"}
+  },
+  "result": {"item": "dapperarmor:suit_jacket", "count": 1}
+}
