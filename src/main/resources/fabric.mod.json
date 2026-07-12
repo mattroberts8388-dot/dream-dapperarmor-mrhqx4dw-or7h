@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "dapperarmor",
+  "version": "${version}",
+  "name": "Dapper Armor",
+  "description": "Adds a fancy top hat and a formal suit armor set so you can dress to impress in Minecraft.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.dapperarmor.DapperArmorMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.1",
+    "fabric-api": "*"
+  }
+}
