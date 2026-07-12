@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {"item": "minecraft:black_wool"}
+  },
+  "result": {"item": "dapperarmor:dress_shoes", "count": 1}
+}
