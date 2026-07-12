@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "PPP"
+  ],
+  "key": {
+    "#": {"item": "minecraft:black_wool"},
+    "P": {"item": "minecraft:paper"}
+  },
+  "result": {"item": "dapperarmor:top_hat", "count": 1}
+}
